@@ -1,7 +1,6 @@
 package tnr.junitmetalink;
 
 import org.junit.jupiter.api.*;
-import org.squashtest.ta.galaxia.squash.tf.galaxia.annotations.TFMetadata;
 
 import java.util.ArrayList;
 import java.util.List;
