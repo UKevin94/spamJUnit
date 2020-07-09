@@ -36,7 +36,7 @@ public class RapidfayaTest {
 
     @Test
     public void test6(){
-        Assertions.assertTrue(true,"Test6 est KO");
+        Assertions.assertTrue(false,"Test6 est KO");
     }
 
     @Test
@@ -56,7 +56,7 @@ public class RapidfayaTest {
 
     @Test
     public void test10(){
-        Assertions.assertTrue(false,"Test10 est KO");
+        Assertions.assertTrue(true,"Test10 est KO");
     }
 
     @Test
